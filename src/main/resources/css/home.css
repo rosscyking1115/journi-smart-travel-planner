@@ -1,0 +1,86 @@
+/* home.css */
+
+.home-root {
+    -fx-alignment: top-center;
+    -fx-padding: 60 0 0 0;
+    -fx-background-image: url("../images/background.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+.logo {
+    -fx-fill: #FFFFFF;
+    -fx-text-alignment: center;
+    -fx-font-family: "Limelight";
+    -fx-font-size: 40px;
+    -fx-font-style: normal;
+    -fx-font-weight: normal;
+}
+
+.slogan {
+    -fx-fill: #FFFFFF;
+    -fx-text-alignment: center;
+    -fx-font-family: "Marker Felt";
+    -fx-font-size: 64px;
+    -fx-font-style: normal;
+    -fx-font-weight: bold;
+}
+
+.signUp-btn {
+    -fx-pref-width: 120px;
+    -fx-pref-height: 40px;
+    -fx-background-color: rgba(46,65,51,0);
+    -fx-background-radius: 15;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-family: "Racing Sans One";
+    -fx-padding: 4 20;
+    -fx-font-size: 16px;
+    -fx-font-style: normal;
+    -fx-font-weight: normal;
+    -fx-alignment: center;
+    -fx-opacity: 0.95;
+}
+
+.signUp-btn:hover {
+    -fx-background-color: rgba(46,65,51,0.15);
+}
+
+.signIn-btn {
+    -fx-pref-width: 140px;
+    -fx-pref-height: 40px;
+    -fx-background-color: rgba(46,65,51,0);
+    -fx-background-radius: 15;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-family: "Racing Sans One";
+    -fx-padding: 4 20;
+    -fx-font-size: 24px;
+    -fx-font-style: normal;
+    -fx-font-weight: normal;
+    -fx-alignment: center;
+    -fx-opacity: 0.95;
+}
+
+.signIn-btn:hover {
+    -fx-background-color: rgba(46,65,51,0.15);
+}
+
+
+.start-btn {
+    -fx-pref-width: 280px;
+    -fx-pref-height: 40px;
+    -fx-background-color: #2D3A33;
+    -fx-background-radius: 30;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-family: "Racing Sans One";
+    -fx-padding: 8 40;
+    -fx-font-size: 24px;
+    -fx-font-style: normal;
+    -fx-font-weight: normal;
+    -fx-alignment: center;
+    -fx-opacity: 0.95;
+}
+
+.start:hover {
+    -fx-background-color: #263129;
+}

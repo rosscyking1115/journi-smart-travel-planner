@@ -1,0 +1,33 @@
+/* signIn.css */
+
+.root {
+    -fx-background-color: linear-gradient(to bottom, #f7f8fa, #e2e4e9);
+}
+
+.continue-btn {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+    -fx-background-radius: 20;
+    -fx-font-size: 16px;
+    -fx-font-family: 'Sansita One';
+}
+
+.continue-btn:hover {
+    -fx-background-color: #005bb5;
+}
+
+.label {
+    -fx-font-size: 18px;
+}
+
+.back-btn {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+    -fx-background-radius: 20;
+    -fx-font-size: 16px;
+    -fx-font-family: 'Sansita One';
+}
+
+.back-btn:hover {
+    -fx-background-color: #005bb5;
+}

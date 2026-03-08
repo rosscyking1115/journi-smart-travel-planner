@@ -1,0 +1,100 @@
+1, York, North Yorkshire, England
+2, Manchester, Greater Manchester, England
+3, Liverpool, Merseyside, England
+4, Castleton, Derbyshire, England
+5, London, Greater London, England
+6, Edinburgh, Lothians, Scotland
+7, Windermere, Cumbria, England
+8, Cambridge, Cambridgeshire, England
+9, Bath, Somerset, England
+10, Brighton, East Sussex, England
+11, Leeds, West Yorkshire, England
+12, Newcastle, Tyne and Wear, England
+13, Chester, Cheshire, England
+14, Whitby, North Yorkshire, England
+15, Scarborough, North Yorkshire, England
+16, Bristol, Bristol, England
+17, Oxford, Oxfordshire, England
+18, Durham, County Durham, England
+19, Blackpool, Lancashire, England
+20, Harrogate, North Yorkshire, England
+21, Stratford-upon-Avon, Warwickshire, England
+22, Norwich, Norfolk, England
+23, Cardiff, Cardiff, Wales
+24, Glasgow, Glasgow, Scotland
+25, Conwy, Conwy, Wales
+26, Keswick, Cumbria, England
+27, Fort William, Highland, Scotland
+28, Canterbury, Kent, England
+29, Winchester, Hampshire, England
+30, Bournemouth, Dorset, England
+31, Nottingham, Nottinghamshire, England
+32, Leicester, Leicestershire, England
+33, Shrewsbury, Shropshire, England
+34, Inverness, Highland, Scotland
+35, Portsmouth, Hampshire, England
+36, Isle of Wight, Isle of Wight, England
+37, Grasmere, Cumbria, England
+38, St Ives, Cornwall, England
+39, Buxton, Derbyshire, England
+40, Bakewell, Derbyshire, England
+41, Matlock Bath, Derbyshire, England
+42, Malvern, Worcestershire, England
+43, Ludlow, Shropshire, England
+44, Tenby, Pembrokeshire, Wales
+45, Brecon Beacons, Powys, Wales
+46, Snowdonia, Gwynedd, Wales
+47, Aberdeen, Aberdeen, Scotland
+48, Stirling, Stirling, Scotland
+49, Oban, Argyll and Bute, Scotland
+50, Isle of Skye, Highland, Scotland
+51, Exeter, Devon, England
+52, Cheltenham, Gloucestershire, England
+53, Worcester, Worcestershire, England
+54, Salisbury, Wiltshire, England
+55, Plymouth, Devon, England
+56, Penzance, Cornwall, England
+57, Dartmouth, Devon, England
+58, Berwick-upon-Tweed, Northumberland, England
+59, Alnwick, Northumberland, England
+60, Carlisle, Cumbria, England
+61, Hebden Bridge, West Yorkshire, England
+62, Haworth, West Yorkshire, England
+63, Ironbridge, Shropshire, England
+64, Llandudno, Conwy, Wales
+65, Betws-y-Coed, Conwy, Wales
+66, Hay-on-Wye, Powys, Wales
+67, St Andrews, Fife, Scotland
+68, Perth, Perth and Kinross, Scotland
+69, Pitlochry, Perth and Kinross, Scotland
+70, Aviemore, Highland, Scotland
+71, Bamburgh, Northumberland, England
+72, Wells, Somerset, England
+73, Glastonbury, Somerset, England
+74, Lyme Regis, Dorset, England
+75, Margate, Kent, England
+76, Rye, East Sussex, England
+77, Hastings, East Sussex, England
+78, Dover, Kent, England
+79, Lincoln, Lincolnshire, England
+80, Ely, Cambridgeshire, England
+81, King's Lynn, Norfolk, England
+82, Cromer, Norfolk, England
+83, Woodstock, Oxfordshire, England
+84, Cirencester, Gloucestershire, England
+85, Truro, Cornwall, England
+86, Falmouth, Cornwall, England
+87, Newquay, Cornwall, England
+88, Padstow, Cornwall, England
+89, Torquay, Devon, England
+90, Exmoor, Devon, England
+91, Dartmoor, Devon, England
+92, New Forest, Hampshire, England
+93, Gower Peninsula, Swansea, Wales
+94, Pembrokeshire Coast, Pembrokeshire, Wales
+95, Anglesey, Anglesey, Wales
+96, Loch Lomond, Stirling, Scotland
+97, Isle of Arran, North Ayrshire, Scotland
+98, Isle of Mull, Argyll and Bute, Scotland
+99, Orkney, Orkney, Scotland
+100, Scafell Pike, Cumbria, England

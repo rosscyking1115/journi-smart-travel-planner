@@ -1,0 +1,27 @@
+/* detail.css */
+
+.detail-title {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #2C4E89;
+    -fx-underline: true;
+    -fx-cursor: hand;
+}
+
+.section-title {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-padding: 10 0 6 0;
+    -fx-text-fill: #444;
+}
+
+.label {
+    -fx-font-size: 18px;
+    -fx-text-fill: #333;
+}
+
+.hyperlink:focused {
+    -fx-border-color: transparent;
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+}

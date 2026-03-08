@@ -1,0 +1,132 @@
+/* search.css */
+
+.search-root {
+    -fx-background-color: F4F4F4;
+}
+
+.title {
+    -fx-font-family: "Limelight";
+    -fx-font-size: 40px;
+    -fx-font-style: normal;
+    -fx-font-weight: 400;
+    -fx-text-alignment: center;
+    -fx-fill: #FFFFFF;
+    -fx-opacity: 0.95;
+}
+
+.signOut-btn {
+    -fx-pref-width: 180px;
+    -fx-pref-height: 40px;
+    -fx-background-color: rgba(46,65,51,0);
+    -fx-background-radius: 0;
+    -fx-text-fill: white;
+    -fx-font-family: "Racing Sans One";
+    -fx-padding: 8 40;
+    -fx-font-size: 24px;
+    -fx-font-style: normal;
+    -fx-font-weight: normal;
+    -fx-alignment: center;
+    -fx-opacity: 0.95;
+}
+
+.signOut-btn:hover {
+    -fx-background-color: rgba(46,65,51,0.15);
+}
+
+.slogan {
+    -fx-pref-width: 954px;
+    -fx-pref-height: 237px;
+    -fx-font-family: "Sansita One";
+    -fx-font-size: 75px;
+    -fx-font-style: normal;
+    -fx-font-weight: 400;
+    -fx-fill: white;
+    -fx-alignment: center;
+    -fx-text-alignment: center;
+}
+
+.search-box {
+    -fx-pref-width: 1350px;
+    -fx-max-width: 1350px;
+    -fx-pref-height: 220px;
+    -fx-max-height: 220px;
+    -fx-background-color: #FAFAFA;
+    -fx-border-color: #7A7575;
+    -fx-border-width: 1px;
+    -fx-border-style: solid;
+    -fx-alignment: center;
+    -fx-spacing: 20px;
+    -fx-padding: 30px;
+    -fx-translate-y: 360px;
+}
+
+.filter-box {
+    -fx-pref-width: 500px;
+    -fx-min-height: 80px;
+    -fx-max-height: 80px;
+    -fx-padding: 4px 18px;
+    -fx-background-color: #2C4E89;
+    -fx-background-radius: 0;
+    -fx-border-radius: 0;
+}
+
+/* When dropdown menu is collapsed */
+.combo-box .list-cell {
+    -fx-font-family: "Sansita One";
+    -fx-font-size: 30px;
+    -fx-text-fill: white;
+    -fx-alignment: center-left;
+    -fx-padding: 10px 5px 10px 2px;
+    -fx-background-color: transparent;
+}
+
+/* Expanded Dropdown Menu */
+.combo-box-popup .list-view {
+    -fx-background-color: #2C4E89;
+    -fx-background-radius: 0;
+    -fx-border-radius: 0;
+    -fx-padding: 0;
+}
+
+.combo-box-popup .list-view .cell {
+    -fx-background-color: #2C4E89;
+    -fx-text-fill: white;
+    -fx-font-family: "Sansita One";
+    -fx-font-size: 30px;
+    -fx-alignment: center-left;
+    -fx-padding: 10px 20px;
+}
+
+/* Drop down menu item hover effect */
+.combo-box-popup .list-view .cell:hover {
+    -fx-background-color: #1F365F;
+}
+
+/* Drop down menu hover effect */
+.combo-box:hover {
+    -fx-background-color: #345899;
+}
+
+/* Arrow icon */
+.combo-box .arrow {
+    -fx-background-color: white;
+    -fx-padding: 4;
+}
+
+.search-btn {
+    -fx-pref-width: 300px;
+    -fx-pref-height: 80px;
+    -fx-padding: 10px;
+    -fx-background-color: #2C4E89;
+    -fx-font-family: "Racing Sans One";
+    -fx-font-size: 22px;
+    -fx-font-style: italic;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+    -fx-background-radius: 0;
+    -fx-border-radius: 0;
+}
+
+.search-btn:hover {
+    -fx-background-color: #263129;
+}
