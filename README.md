@@ -78,7 +78,9 @@ Requirements:
 
 Run the application using:
 
+```bash
 java Main
+```
 
 ---
 
