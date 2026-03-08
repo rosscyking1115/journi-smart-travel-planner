@@ -63,9 +63,27 @@ The application recommends destinations and displays useful information includin
 
 ---
 
-## Screenshots
+## Application Screenshots
 
-(Add screenshots here if available)
+### Home Page
+
+![Home](screenshots/home.png)
+
+### Search Interface
+
+![Search](screenshots/search.png)
+
+### Results Page
+
+![Results](screenshots/results.png)
+
+### Destination Detail
+
+![Detail](screenshots/detail.png)
+
+### Favourites System
+
+![Favourites](screenshots/favourites.png)
 
 ---
 
